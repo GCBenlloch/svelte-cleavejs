@@ -2,6 +2,14 @@
   "name": "svelte-cleavejs",
   "version": "1.0.0",
   "description": "Cleave.js action for Svelte",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GCBenlloch/svelte-cleavejs"
+  },
+  "homepage": "",
+  "bugs": {
+    "url": "https://github.com/GCBenlloch/svelte-cleavejs/issues"
+  },
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
