@@ -1,6 +1,6 @@
 {
   "name": "svelte-cleavejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cleave.js action for Svelte",
   "repository": {
     "type": "git",

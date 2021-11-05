@@ -17,7 +17,7 @@ npm install --save svelte-cleavejs
 	import { cleave } from 'svelte-cleavejs'
 </script>
 
-<input use:svelte={options} />
+<input use:cleave={options} />
 ```
 
 The accepted `options` are the same as the ones documented in [cleave.js JavaScript API Options](https://github.com/nosir/cleave.js/blob/master/doc/options.md).
