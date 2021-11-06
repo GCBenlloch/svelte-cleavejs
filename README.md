@@ -1,4 +1,4 @@
-# svelte-cleave
+# svelte-cleavejs
 
 Svelte action for [Cleave.js](https://github.com/nosir/cleave.js)
 
@@ -24,4 +24,4 @@ The accepted `options` are the same as the ones documented in [cleave.js JavaScr
 
 ## Licence
 
-svelte-cleave is licensed under the [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+svelte-cleavejs is licensed under the [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
